@@ -74,4 +74,4 @@ int main(void)
 .SH SEE ALSO
 .R printf(3)
 .SH AUTHOR
-Written by \fBGideon Akpan\fR and \fBChimaka Okafor\fR.
+Written by \fBEmeh Ogochukwu\fR.
